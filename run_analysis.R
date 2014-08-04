@@ -1,6 +1,6 @@
 # getting and cleaning data
 
-setwd("~/Desktop/Coursera/Data Analysis Specialization/Getting and Cleaning Data/Project")
+# setwd("~/Desktop/Coursera/Data Analysis Specialization/Getting and Cleaning Data/Project")
 
 trainX = read.table("UCI HAR Dataset/train/X_train.txt", sep="", header=FALSE)
 trainY = read.table("UCI HAR Dataset/train/Y_train.txt", sep="", header=FALSE)
