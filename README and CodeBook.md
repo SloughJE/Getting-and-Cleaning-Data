@@ -56,4 +56,4 @@ The tidy data set contains:
   * `fBodyGyroMag`
   * `fBodyGyroJerkMag`
   
-  
+To run the code, just make sure you have the file "UCI HAR Dataset" in your working directory.
