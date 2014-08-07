@@ -35,8 +35,8 @@ Code Book
 
 The tidy data set contains:
 
-  * Activity label (Activity): WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
   * Subject identifier (Subject)
+  * Activity label (Activity): WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
   * mean and standard deviation of sensor signals for the following variables (XYZ corresponds to the different axes of movement)
   * `tBodyAcc-XYZ`
   * `tGravityAcc-XYZ`
