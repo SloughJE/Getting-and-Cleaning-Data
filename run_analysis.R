@@ -54,7 +54,7 @@ MergedData$subject <- as.factor(MergedData$subject)
 
 tidy = aggregate(MergedData, by=list(activity = MergedData$activity, subject=MergedData$subject), mean)
 
-# Remove subject and activity column (no mean)
+
 ncol(tidy)
 tidy = tidy[,-c(89,90)]
 
